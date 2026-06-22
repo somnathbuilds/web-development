@@ -16,3 +16,13 @@ img{
 h1,h2{
     color: #58a6ff;
 }
+
+a{
+    color: #58a6ff;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+a:hover{
+    color: white;
+}
