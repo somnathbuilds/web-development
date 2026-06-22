@@ -18,11 +18,11 @@ h1,h2{
 }
 
 a{
-    color: #58a6ff;
+    color: #c9d1d9;
     text-decoration: none;
-    font-size: 20px;
+    font-weight: bold;
 }
 
 a:hover{
-    color: white;
+    color: #58a6ff;
 }
